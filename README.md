@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! I am Maciej</h1>
-<h3 align="center">A student of Automation and Robotics, specializing at Information Technologies in Production Systems</h3>
+<h3 align="center">A student of Automation and Robotics, specializing in Information Technologies in Production Systems</h3>
 
 - 🔭 I’m currently working on My Engineering disseration **Web application for production resource database**
 
