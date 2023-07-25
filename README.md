@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-<h3 align="center">I am <em>Maciej</em>.<br>A student of Automation and Robotics, specializing in Information Technologies in Production Systems</h3>
+<h3 align="left">I am <em>Maciej</em>.<br>A student of Automation and Robotics, specializing in Information Technologies in Production Systems</h3>
 
 
 - 🔭 I’m currently working on My Engineering Thesis: **Web application for production resource database**
