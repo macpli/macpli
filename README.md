@@ -10,8 +10,8 @@
 - Angular
 - Angular Material
 - Bootstrap
-- C#
-- MySQL
+- .Net
+- MsSQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
