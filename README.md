@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-<h3 align="left">I am <em>Maciej</em>.<br>A student of Automation and Robotics, specializing in Information Technologies in Production Systems and an aspiring frontend developer creating solutions for automation industry. </h3>
+<h3 align="left">I am <em>Maciej</em>.<br>A student of Automation and Robotics, specializing in Information Technologies in Production Systems and an aspiring software developer creating solutions for automation industry. </h3>
 
 - Improving my skills to become a full-stack developer
 - I’m currently working on my engineering thesis: **Web application for production resource database**
