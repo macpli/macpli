@@ -9,4 +9,3 @@
 <a href="https://www.linkedin.com/in/maciej-pliszek-b35a18256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maciej-pliszek-b35a18256/" height="30" width="40" /></a>
 </p>
 
-![cat](https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif?itemid=14797159.gif)
