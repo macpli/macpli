@@ -1,8 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-<h3 align="left">I am <em>Maciej</em>.<br>A student of Applied Computer Science. </h3>
-
-- Developing Fullstack Applications With Modern Technologies
+<h3 align="left">I am <em>Maciej</em>.<br>A Fullstack Developer. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
